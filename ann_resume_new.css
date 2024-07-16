@@ -1,0 +1,42 @@
+.box {
+    width: 80%;
+    height: 50%;
+    border: 1px solid black;
+    padding: 9.92%;
+    /* margin: 10%; */
+    text-align: center;
+    font-size: 300%;
+    font-style: Verdana ;
+   
+     /* position: relative; */
+    /* top: 2px;
+    left: 25px;
+    right: 25px;  */
+  }
+  .box2{
+    width: 40%;
+    height: 1800px;
+    border: 1px solid black;
+    padding: 1%;
+    /* margin: 10%; */
+   
+    
+    
+  }
+  
+  .box3{
+    width: 70%;
+    height: 1800px;
+    border: 1px solid black;
+    padding: 1%;
+    /* margin: 10%; */
+    
+    
+   
+    
+  }
+  
+  p{ border : 2px solid rgb(255, 255, 255);
+    padding: 3px;
+    line-height: 1;
+  }
